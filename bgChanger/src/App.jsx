@@ -28,6 +28,18 @@ function App() {
             className='outline-none px-4 py-1 rounded-full text-white shadow-lg '
             style = {{backgroundColor: "purple"}}
           >Purple</button>
+          <button onClick={()=>setColor("purple")}
+            className='outline-none px-4 py-1 rounded-full text-white shadow-lg '
+            style = {{backgroundColor: "purple"}}
+          >Purple</button>
+          <button onClick={()=>setColor("purple")}
+            className='outline-none px-4 py-1 rounded-full text-white shadow-lg '
+            style = {{backgroundColor: "purple"}}
+          >Purple</button>
+          <button onClick={()=>setColor("purple")}
+            className='outline-none px-4 py-1 rounded-full text-white shadow-lg '
+            style = {{backgroundColor: "purple"}}
+          >Purple</button>
         </div>
       </div>
     </div>
